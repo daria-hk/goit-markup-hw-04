@@ -263,6 +263,7 @@ p {
   gap: 24px;
   justify-content: center;
   padding: 0;
+  margin-top: 8px;
 }
 
 .social-media-item {
