@@ -259,8 +259,8 @@ p {
   text-align: center;
 }
 
-.social-media-container {
-  padding: 32px 0;
+div.social-media-container {
+  padding: 32px 0 32px;
 }
 
 .social-media-list {
